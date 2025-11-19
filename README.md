@@ -1,0 +1,57 @@
+<!-- Profile Header with Picture -->
+<p align="center">
+  <!-- Replace `your-photo.png` with your image file or an external link -->
+  <img src="your-photo.png" alt="Amishi Gupta" width="160" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">Hi, I'm Amishi 👋</h1>
+
+<p align="center">
+  <em>CS Student @ Cornell • iOS & Backend Dev • Robotics & AI Enthusiast  • Full-Stack Developer</em>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 I'm a junior studying Computer Science + AI at Cornell. I am really passionate about creating something end-to-end and learning new technologies to be applied to fields such as healthcare and sustainability.
+- I have interned at **Amazon** and **Echo3D** as a SWE intern before but am currently open to roles in full-stack development, Machine Learning + AI, and Data Science.
+- In college, I am a part of Cornell Nexus where I am making an autonomous robot to collect microplastics, Cornell Tech Consulting, and KTP Tech Fraternity where I mentor new members in all areas of tech.
+- 🤖 Recently, I’ve been exploring:
+  - Machine Learning, AI + Robotics + Computational Genetics
+- 🍔 In my free time, I love dancing on Cornell Nazaqat, trying out different matcha shops, watching rooftop sunsets, and ranking restaurants on Beli!
+
+---
+
+## 🧰 Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Code-Python-blue" />
+  <img src="https://img.shields.io/badge/Code-Swift-orange" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Tools-Git-black" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-ff9900" />
+  <img src="https://img.shields.io/badge/Code-C-blue" />
+  <img src="https://img.shields.io/badge/Code-Java-green" />
+  <img src="https://img.shields.io/badge/Code-React-yellow" />
+  <img src="https://img.shields.io/badge/Code-HTML/JS/CSS-blue" />
+  <img src="https://img.shields.io/badge/Library-Tensorflow-green" />
+  <img src="https://img.shields.io/badge/Library-Scikit Learn-yellow" />
+  <img src="https://img.shields.io/badge/Library-Numpy-orange"/>
+  <img src="https://img.shields.io/badge/Library-Pandas-blue" />
+  
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [amishigupta2809@gmail.com](mailto:amishigupta2809@gmail.com)  
+- 💼 LinkedIn: [Amishi Gupta](https://www.linkedin.com/in/amishigupta/)  
+- 🧪 Personal Website: [amishi00.github.io](https://amishi00.github.io)  
+
+---
+
+<p align="center">
+  <sub>Thanks for stopping by! ⭐ Consider checking out my pinned repos below.</sub>
+</p>
