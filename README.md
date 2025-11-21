@@ -23,6 +23,35 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<!-- Project 1 -->
+### 👗 ARTryOnDresses
+**Tech:** `SwiftUI` · `Flask` · `Javascript`, 
+**What it does:** An augemented reality (AR) iOS application, built with echo3D Swift SDK that allows users to try on dresses virtually using their personal camera. Users also have the option of using their own 3D models to try on. Users can add 3D assets, remove them, rotate, resize, and move in their 3D environment.
+
+[🔗 Repo](https://github.com/amishi00/TryOnDressesAR)
+
+---
+
+<!-- Project 2 -->
+### 🩻 BreastCancerMammogram
+**Tech:** `Python` · `Numpy` · `Pandas` · `Tensorflow` · `Scikit Learn`  
+**What it does:** Trained a Convolutional Neural Network (CNN) model in order to classify positive and negative in binary breast cancer mammogram predictor. Worked on multi class classifier to predict the stage of Breast Cancer in Mammogram images.
+
+[🔗 Repo](https://github.com/amishi00/BreastCancerMammogram)
+
+---
+
+<!-- Project 3 -->
+### 📱 KTP Website
+**Tech:** `HTML` · `CSS`· `JavaScript`· `React`
+**What it does:** Created the website for Kappa Theta Pi - Tech Fraternity from end-to-end.
+
+[🔗 Repo](https://github.com/ktpcornell/ktpcornell.github.io)
+
+---
+
 ## 🧰 Tech & Tools
 
 <p>
