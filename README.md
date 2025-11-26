@@ -1,7 +1,8 @@
 <!-- Profile Header with Picture -->
 <p align="center">
   <!-- Replace `your-photo.png` with your image file or an external link -->
-  <img src="amishigupta.png" alt="Amishi Gupta" width="160" style="border-radius: 50%;">
+  <!-- <img src="amishigupta.JPG" alt="Amishi Gupta" width="160" style="border-radius: 50%;"> -->
+  <img src="Amishi Gupta.png" alt="Amishi Gupta" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Amishi 👋</h1>
