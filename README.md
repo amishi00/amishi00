@@ -28,7 +28,8 @@
 
 <!-- Project 1 -->
 ### 👗 ARTryOnDresses
-**Tech:** `SwiftUI` · `Flask` · `Javascript`, 
+**Tech:** `SwiftUI` · `Flask` · `Javascript`
+
 **What it does:** An augemented reality (AR) iOS application, built with echo3D Swift SDK that allows users to try on dresses virtually using their personal camera. Users also have the option of using their own 3D models to try on. Users can add 3D assets, remove them, rotate, resize, and move in their 3D environment.
 
 [🔗 Repo](https://github.com/amishi00/TryOnDressesAR)
@@ -45,11 +46,13 @@
 ---
 
 <!-- Project 3 -->
-### 📱 KTP Website
-**Tech:** `HTML` · `CSS`· `JavaScript`· `React`
-**What it does:** Created the website for Kappa Theta Pi - Tech Fraternity from end-to-end.
+### 📱 Senior Surf
+**Tech:** `Python` · `JavaScript`· `HTML`
 
-[🔗 Repo](https://github.com/ktpcornell/ktpcornell.github.io)
+**What it does:** Designed and developed a Chrome extension to autonomously help elderly navigate websites using DOM (Document Object Model), and GeminiAPI. Integrated AI chatbot to
+generate a list of actions needed to complete a task based on user input and used vector embeddings to find and highlight the closest HTML components needed to be clicked to complete the task. .
+
+[🔗 Repo](https://github.com/amishi00/seniorSurf)
 
 ---
 
