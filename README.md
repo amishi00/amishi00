@@ -81,7 +81,7 @@ generate a list of actions needed to complete a task based on user input and use
 
 - 📧 Email: [amishigupta2809@gmail.com](mailto:amishigupta2809@gmail.com)  
 - 💼 LinkedIn: [Amishi Gupta](https://www.linkedin.com/in/amishigupta/)  
-- 🧪 Personal Website: [amishi00.github.io](https://amishi00.github.io)  
+- 🧪 Personal Website: [amishigupta.vercel.app](https://amishigupta.vercel.app/)  
 
 ---
 
